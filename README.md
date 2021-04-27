@@ -6,8 +6,8 @@ A new Flutter application.
 
 Here is a ScreenShot of the calculator App
 
-https://github.com/sarosh4271/mad_lab9_flutter/blob/main/sshot1.png
+![alt_text]https://github.com/sarosh4271/mad_lab9_flutter/blob/main/sshot1.png
 
-https://github.com/sarosh4271/mad_lab9_flutter/blob/main/sshot2.png
+![alt_text]https://github.com/sarosh4271/mad_lab9_flutter/blob/main/sshot2.png
 
-https://github.com/sarosh4271/mad_lab9_flutter/blob/main/sshot3.png
+![alt_text]https://github.com/sarosh4271/mad_lab9_flutter/blob/main/sshot3.png
